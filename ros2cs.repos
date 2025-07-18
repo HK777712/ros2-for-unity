@@ -1,4 +1,4 @@
 repositories:
   src/ros2cs/:
     type: git
-    url:     https://github.com/Kotakku/ros2cs.git
+    url:     https://github.com/HK777712/ros2cs.git

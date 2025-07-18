@@ -2,3 +2,4 @@ repositories:
   src/ros2cs/:
     type: git
     url:     https://github.com/HK777712/ros2cs.git
+    version: dev
